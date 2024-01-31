@@ -1,0 +1,59 @@
+{
+    "cards": [
+        {
+            "topTitle": "Basic Survival",
+            "currencyPrice": "$",
+            "price": 30,
+            "term": "Months",
+            "description": "Get Torque's basic plan to optimize your lead generation process.",
+            "middleTitle": "Core Features",
+            "middleSubTitle": "Basic",
+            "features": [
+                "Email addresses",
+                "Phone numbers",
+                "Unlimited Lists"
+            ],
+            "link": "https://www.google.ru",
+            "btnText": "Start Free Trial"
+        },
+        {
+            "topTitle": "Mission Professional",
+            "currencyPrice": "$",
+            "price": 276,
+            "term": "Months",
+            "description": "Get Torque's basic plan to optimize your lead generation process.",
+            "middleTitle": "Core Features",
+            "middleSubTitle": "Boost Tools",
+            "features": [
+                "Email addresses",
+                "Phone numbers",
+                "Unlimited Lists",
+                "Export contacts",
+                "Prospecting",
+                "50MB Per File Attachment"
+            ],
+            "link": "https://www.figma.com/file/loQtBLcNjIQtEcXhDRC7Wy/Test-TASK-(Copy)?type=design&node-id=0%3A1&mode=design&t=Y8QaERWVeb48Kshb-1",
+            "btnText": "Get Started"
+        },
+        {
+            "topTitle": "Rocketship Premium",
+            "currencyPrice": "$",
+            "price": 420,
+            "term": "Months",
+            "description": "Get Torque's basic plan to optimize your lead generation process.",
+            "middleTitle": "Core Features",
+            "middleSubTitle": "Super Fuel",
+            "features": [
+                "Email addresses",
+                "Phone numbers",
+                "Unlimited Lists",
+                "Export contacts",
+                "Prospecting",
+                "50MB Per File Attachment",
+                "Basic analytics"
+            ],
+            "link": "https://www.google.ru",
+            "btnText": "Start Free Trial"
+        }
+    ]
+}
